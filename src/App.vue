@@ -112,7 +112,8 @@ const handleMenuAside = () => {
         </div>
         <div class="flex items-end w-1/2 border-b border-gray-400">
 
-          <img src="/img/illustration.svg" alt="">
+          <!-- <img src="/img/illustration.svg" alt=""> -->
+          <img src="/img/terms-2.png" alt="">
 
         </div>
       </div>
